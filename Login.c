@@ -11,6 +11,6 @@ fgets(str,50,stdin);
   
    printf("Enter your passcode:");
     scanf("%i", &passcode);
-    printf("Login succeful Welcome aboard %s!", str);
+    printf("Login successful Welcome aboard %s!", str);
     return 0;
 }
